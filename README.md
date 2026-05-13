@@ -1,1 +1,8 @@
 # sprint-2-python
+
+## Integrantes
+Artur Fabi Brandi - RM570258
+Felipe Santos Ribas - RM569121
+Orion Cavalcante França - RM573677
+Victor Lula Heineken Rodrigues - RM570782
+Luiz Gonzaga - RM572446
